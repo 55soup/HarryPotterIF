@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
+    url("img/img1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  font-size: 100px;
+  color: white;
+}
